@@ -16,5 +16,5 @@ console.log(color);
 let age =prompt('please enter your age');
 console.log(age);
 
-alert('hello'+uName+'your favert food is'+favFood+'your fav color is'+color+'and finally ypur age is'+age);
+alert('hello' +uName+ 'your favert food is' +favFood+ 'your fav color is' +color+ 'and finally ypur age is' +age);
 
